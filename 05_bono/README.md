@@ -22,7 +22,7 @@
 
 <hr class="full_hr" />
 <p>事前調査: Mac: 4, Windows: 16, N/A: 1</p>
-<h3 id="content_1_0"><a id="r2e170d6" href="http://MotDB.DBCLS.jp/?AJACS32%2Fbono#r2e170d6" title="r2e170d6"><span class="sanchor">_</span></a> はじめに: 参加者アンケート  </h3>
+### はじめに: 参加者アンケート
 <ul class="list1" style="padding-left:16px;margin-left:16px"><li>おもにMacの人：5</li>
 <li>おもにWindowsの人：9</li>
 <li>iPhoneの人：4
@@ -34,9 +34,9 @@
 <li>データベースを構築したい人：0</li>
 <li>ライフサイエンス統合データベースセンターの存在を知っていた人：3</li></ul>
 
-<h3 id="content_1_1"><a id="xf9175d0" href="http://MotDB.DBCLS.jp/?AJACS32%2Fbono#xf9175d0" title="xf9175d0"><span class="sanchor">_</span></a> 必要なコンピュータリテラシー  </h3>
+### 必要なコンピュータリテラシー
 
-<h3 id="content_1_2"><a id="e3077b51" href="http://MotDB.DBCLS.jp/?AJACS32%2Fbono#e3077b51" title="e3077b51">_</a> Google  </h3>
+<h4 id="content_1_2"><a id="e3077b51" href="http://MotDB.DBCLS.jp/?AJACS32%2Fbono#e3077b51" title="e3077b51">_</a> Google  </h4>
 <blockquote><p class="quotation"><a href="http://www.google.co.jp/" rel="nofollow">http://www.google.co.jp/</a></p></blockquote>
 <p>Google（「グーグル」と読みます）検索することを「ググる」といいます。そこでインターネット上では、自分でインターネット検索もせずにあれこれと質問をしてくるユーザーに対して以下のようにいうことがあります。</p>
 <p><span style="font-size:30px;display:inline-block;line-height:130%;text-indent:0px">ググれカス</span></p>
@@ -169,7 +169,7 @@ BLASTのダウンロードサイト（臨時）として</p>
 
 <h3 id="content_1_9"><a id="z7c0084b" href="http://MotDB.DBCLS.jp/?AJACS32%2Fbono#z7c0084b" title="z7c0084b"><span class="sanchor">_</span></a> データ後処理  </h3>
 
-<h3 id="content_1_10"><a id="y173062b" href="http://MotDB.DBCLS.jp/?AJACS32%2Fbono#y173062b" title="y173062b">_</a> 数える  </h3>
+<h4 id="content_1_10"><a id="y173062b" href="http://MotDB.DBCLS.jp/?AJACS32%2Fbono#y173062b" title="y173062b">_</a> 数える  </h4>
 <p>大規模にBLASTを計算するといくつヒットがあったかなどが一目ではわからなくなってきます。そういった「数える」必要があるときにコマンドラインでの処理が役に立ちます。</p>
 <ul class="list1" style="padding-left:16px;margin-left:16px"><li>FASTAファイルの配列のエントリ数を。例えば、上で用いたyeastのアミノ酸配列のDB(FASTA形式)の配列エントリ数を数える場合。
 <blockquote><p class="quotation">grep -c ^\&gt; yeast.aa</p></blockquote></li></ul>
