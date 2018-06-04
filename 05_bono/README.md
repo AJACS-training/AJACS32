@@ -22,7 +22,9 @@
 
 <hr class="full_hr" />
 <p>事前調査: Mac: 4, Windows: 16, N/A: 1</p>
+
 ### はじめに: 参加者アンケート
+
 <ul class="list1" style="padding-left:16px;margin-left:16px"><li>おもにMacの人：5</li>
 <li>おもにWindowsの人：9</li>
 <li>iPhoneの人：4
@@ -86,12 +88,12 @@
 <p><a href="http://lifesciencedb.jp/image/small_video_icon.png" rel="nofollow"><img src="http://lifesciencedb.jp/image/small_video_icon.png" alt="http://lifesciencedb.jp/image/small_video_icon.png" /></a>
 <a href="http://togotv.dbcls.jp/20120124.html" rel="nofollow">GGRNAで遺伝子をGoogleのように検索する</a></p>
 
-<h3 id="content_1_4"><a id="vef33a7b" href="http://MotDB.DBCLS.jp/?AJACS32%2Fbono#vef33a7b" title="vef33a7b">_</a> cygwin(windowsの人のみ)  </h3>
+<h4 id="content_1_4"><a id="vef33a7b" href="http://MotDB.DBCLS.jp/?AJACS32%2Fbono#vef33a7b" title="vef33a7b">_</a> cygwin(windowsの人のみ)  </h4>
 <p>cygwinをまだインストールしていない人は以下の動画を参考にインストールしてください。</p>
 <p><a href="http://lifesciencedb.jp/image/small_video_icon.png" rel="nofollow"><img src="http://lifesciencedb.jp/image/small_video_icon.png" alt="http://lifesciencedb.jp/image/small_video_icon.png" /></a>
 <a href="http://togotv.dbcls.jp/20110520.html" rel="nofollow">WindowsでUNIX! 1. Cygwin インストール編</a></p>
 
-<h3 id="content_1_5"><a id="de3fd902" href="http://MotDB.DBCLS.jp/?AJACS32%2Fbono#de3fd902" title="de3fd902">_</a> UNIX コマンド  </h3>
+<h4 id="content_1_5"><a id="de3fd902" href="http://MotDB.DBCLS.jp/?AJACS32%2Fbono#de3fd902" title="de3fd902">_</a> UNIX コマンド  </h4>
 <p><a href="http://lifesciencedb.jp/image/small_video_icon.png" rel="nofollow"><img src="http://lifesciencedb.jp/image/small_video_icon.png" alt="http://lifesciencedb.jp/image/small_video_icon.png" /></a>
 <a href="http://togotv.dbcls.jp/20110929.html" rel="nofollow">WindowsでUNIX! 2. ファイル操作編</a></p>
 <ul class="list1" style="padding-left:16px;margin-left:16px"><li>cd</li>
@@ -135,7 +137,7 @@ BLASTのダウンロードサイト（臨時）として</p>
 <blockquote><p class="quotation">cp ~/ncbi-blast-2.2.26+/bin/* /usr/local/bin</p></blockquote>
 <p>などとしてコマンドサーチパスが通ったところにコピーしておいて下さい。</p>
 
-<h3 id="content_1_7"><a id="n783a910" href="http://MotDB.DBCLS.jp/?AJACS32%2Fbono#n783a910" title="n783a910">_</a> Windows  </h3>
+<h4 id="content_1_7"><a id="n783a910" href="http://MotDB.DBCLS.jp/?AJACS32%2Fbono#n783a910" title="n783a910">_</a> Windows  </h4>
 <p><a href="http://lifesciencedb.jp/image/small_video_icon.png" rel="nofollow"><img src="http://lifesciencedb.jp/image/small_video_icon.png" alt="http://lifesciencedb.jp/image/small_video_icon.png" /></a>
 <a href="http://togotv.dbcls.jp/20110119.html" rel="nofollow">Local BLAST の使い方～導入・準備編～ 2011</a></p>
 <p><a href="http://lifesciencedb.jp/image/small_video_icon.png" rel="nofollow"><img src="http://lifesciencedb.jp/image/small_video_icon.png" alt="http://lifesciencedb.jp/image/small_video_icon.png" /></a>
@@ -151,7 +153,7 @@ BLASTのダウンロードサイト（臨時）として</p>
 [testdouble.txt](testdouble.txt)
 
 
-<h3 id="content_1_8"><a id="o5cee03c" href="http://MotDB.DBCLS.jp/?AJACS32%2Fbono#o5cee03c" title="o5cee03c">_</a> MacOSX  </h3>
+<h4 id="content_1_8"><a id="o5cee03c" href="http://MotDB.DBCLS.jp/?AJACS32%2Fbono#o5cee03c" title="o5cee03c">_</a> MacOSX  </h4>
 <p><a href="http://lifesciencedb.jp/image/small_video_icon.png" rel="nofollow"><img src="http://lifesciencedb.jp/image/small_video_icon.png" alt="http://lifesciencedb.jp/image/small_video_icon.png" /></a>
 <a href="http://togotv.dbcls.jp/20110420.html" rel="nofollow">Local BLAST の使い方～導入・準備編(MacOSX版)～ 2011</a></p>
 <p><a href="http://lifesciencedb.jp/image/small_video_icon.png" rel="nofollow"><img src="http://lifesciencedb.jp/image/small_video_icon.png" alt="http://lifesciencedb.jp/image/small_video_icon.png" /></a>
@@ -209,12 +211,12 @@ BLASTのダウンロードサイト（臨時）として</p>
 <p class="quotation">}</p></blockquote>
 <blockquote><p class="quotation">cut -f2 testfmt6.out | sort | perl count.prl | less</p></blockquote>
 
-<h3 id="content_1_11"><a id="dcf9cf96" href="http://MotDB.DBCLS.jp/?AJACS32%2Fbono#dcf9cf96" title="dcf9cf96">_</a> ベストヒットだけを抽出  </h3>
+<h4 id="content_1_11"><a id="dcf9cf96" href="http://MotDB.DBCLS.jp/?AJACS32%2Fbono#dcf9cf96" title="dcf9cf96">_</a> ベストヒットだけを抽出  </h4>
 <p>BLASTの出力ファイル（-outfmt 6オプションでタブ区切り出力したもの）をテキスト処理するやり方もありますが、Local BLASTが実行可能となった今、普通にBLASTのオプションで -max_target_seqs 1 を指定するほうが早いです。例えば、</p>
 <blockquote><p class="quotation">blastp -db yeast.aa -query mito.aa -out mito_vs_yeast.out -outfmt 6 -max_target_seqs 1</p></blockquote>
 <p>これでquery: mito.aa db: yeast.aaのベストヒットが抽出できます。</p>
 
-<h3 id="content_1_12"><a id="y8b3afb0" href="http://MotDB.DBCLS.jp/?AJACS32%2Fbono#y8b3afb0" title="y8b3afb0">_</a> おまけ：改行コード問題  </h3>
+<h4 id="content_1_12"><a id="y8b3afb0" href="http://MotDB.DBCLS.jp/?AJACS32%2Fbono#y8b3afb0" title="y8b3afb0">_</a> おまけ：改行コード問題  </h4>
 <p>出てきたBLASTの結果。テキストファイルなのにある種のソフトウェアではうまく認識されないことがあります。その場合、この問題を疑ってください。</p>
 
 <h4 id="content_1_13"><a id="yf6119ab" href="http://MotDB.DBCLS.jp/?AJACS32%2Fbono#yf6119ab" title="yf6119ab">_</a> 改行コード問題とは？  </h4>
