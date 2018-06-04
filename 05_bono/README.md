@@ -82,7 +82,7 @@
 <p>つまり、こういうことです。</p>
 <p><span style="font-size:36px;display:inline-block;line-height:130%;text-indent:0px"><a href="http://motdb.dbcls.jp/?plugin=attach&amp;pcmd=open&amp;file=donotgoogle.jpg&amp;refer=AJACS26%2Fbono" rel="nofollow">ググるなあぶない</a></span></p>
 
-<h3 id="content_1_3"><a id="y1eedffd" href="http://MotDB.DBCLS.jp/?AJACS32%2Fbono#y1eedffd" title="y1eedffd">_</a> 脱線: GGRNA  </h3>
+<h4 id="content_1_3"><a id="y1eedffd" href="http://MotDB.DBCLS.jp/?AJACS32%2Fbono#y1eedffd" title="y1eedffd">_</a> 脱線: GGRNA  </h4>
 <blockquote><p class="quotation"><a href="http://ggrna.dbcls.jp/" rel="nofollow">http://ggrna.dbcls.jp/</a></p></blockquote>
 <p>遺伝子名や断片配列（塩基配列やアミノ酸配列）で<span class="noexists">RefSeq<a href="http://MotDB.DBCLS.jp/?cmd=edit&amp;page=RefSeq&amp;refer=AJACS32%2Fbono">?</a></span>を検索できるサイト。DBCLS謹製。</p>
 <p><a href="http://lifesciencedb.jp/image/small_video_icon.png" rel="nofollow"><img src="http://lifesciencedb.jp/image/small_video_icon.png" alt="http://lifesciencedb.jp/image/small_video_icon.png" /></a>
