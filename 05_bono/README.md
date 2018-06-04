@@ -34,9 +34,9 @@
 <li>データベースを構築したい人：0</li>
 <li>ライフサイエンス統合データベースセンターの存在を知っていた人：3</li></ul>
 
-<div class="jumpmenu"><a href="#navigator">&uarr;</a></div><h3 id="content_1_1"><a id="xf9175d0" href="http://MotDB.DBCLS.jp/?AJACS32%2Fbono#xf9175d0" title="xf9175d0"><span class="sanchor">_</span></a> 必要なコンピュータリテラシー  </h3>
+<h3 id="content_1_1"><a id="xf9175d0" href="http://MotDB.DBCLS.jp/?AJACS32%2Fbono#xf9175d0" title="xf9175d0"><span class="sanchor">_</span></a> 必要なコンピュータリテラシー  </h3>
 
-<div class="jumpmenu"><a href="#navigator">&uarr;</a></div><h3 id="content_1_2"><a id="e3077b51" href="http://MotDB.DBCLS.jp/?AJACS32%2Fbono#e3077b51" title="e3077b51">_</a> Google  </h3>
+<h3 id="content_1_2"><a id="e3077b51" href="http://MotDB.DBCLS.jp/?AJACS32%2Fbono#e3077b51" title="e3077b51">_</a> Google  </h3>
 <blockquote><p class="quotation"><a href="http://www.google.co.jp/" rel="nofollow">http://www.google.co.jp/</a></p></blockquote>
 <p>Google（「グーグル」と読みます）検索することを「ググる」といいます。そこでインターネット上では、自分でインターネット検索もせずにあれこれと質問をしてくるユーザーに対して以下のようにいうことがあります。</p>
 <p><span style="font-size:30px;display:inline-block;line-height:130%;text-indent:0px">ググれカス</span></p>
@@ -80,18 +80,18 @@
 <p>つまり、こういうことです。</p>
 <p><span style="font-size:36px;display:inline-block;line-height:130%;text-indent:0px"><a href="http://motdb.dbcls.jp/?plugin=attach&amp;pcmd=open&amp;file=donotgoogle.jpg&amp;refer=AJACS26%2Fbono" rel="nofollow">ググるなあぶない</a></span></p>
 
-<div class="jumpmenu"><a href="#navigator">&uarr;</a></div><h3 id="content_1_3"><a id="y1eedffd" href="http://MotDB.DBCLS.jp/?AJACS32%2Fbono#y1eedffd" title="y1eedffd">_</a> 脱線: GGRNA  </h3>
+<h3 id="content_1_3"><a id="y1eedffd" href="http://MotDB.DBCLS.jp/?AJACS32%2Fbono#y1eedffd" title="y1eedffd">_</a> 脱線: GGRNA  </h3>
 <blockquote><p class="quotation"><a href="http://ggrna.dbcls.jp/" rel="nofollow">http://ggrna.dbcls.jp/</a></p></blockquote>
 <p>遺伝子名や断片配列（塩基配列やアミノ酸配列）で<span class="noexists">RefSeq<a href="http://MotDB.DBCLS.jp/?cmd=edit&amp;page=RefSeq&amp;refer=AJACS32%2Fbono">?</a></span>を検索できるサイト。DBCLS謹製。</p>
 <p><a href="http://lifesciencedb.jp/image/small_video_icon.png" rel="nofollow"><img src="http://lifesciencedb.jp/image/small_video_icon.png" alt="http://lifesciencedb.jp/image/small_video_icon.png" /></a>
 <a href="http://togotv.dbcls.jp/20120124.html" rel="nofollow">GGRNAで遺伝子をGoogleのように検索する</a></p>
 
-<div class="jumpmenu"><a href="#navigator">&uarr;</a></div><h3 id="content_1_4"><a id="vef33a7b" href="http://MotDB.DBCLS.jp/?AJACS32%2Fbono#vef33a7b" title="vef33a7b">_</a> cygwin(windowsの人のみ)  </h3>
+<h3 id="content_1_4"><a id="vef33a7b" href="http://MotDB.DBCLS.jp/?AJACS32%2Fbono#vef33a7b" title="vef33a7b">_</a> cygwin(windowsの人のみ)  </h3>
 <p>cygwinをまだインストールしていない人は以下の動画を参考にインストールしてください。</p>
 <p><a href="http://lifesciencedb.jp/image/small_video_icon.png" rel="nofollow"><img src="http://lifesciencedb.jp/image/small_video_icon.png" alt="http://lifesciencedb.jp/image/small_video_icon.png" /></a>
 <a href="http://togotv.dbcls.jp/20110520.html" rel="nofollow">WindowsでUNIX! 1. Cygwin インストール編</a></p>
 
-<div class="jumpmenu"><a href="#navigator">&uarr;</a></div><h3 id="content_1_5"><a id="de3fd902" href="http://MotDB.DBCLS.jp/?AJACS32%2Fbono#de3fd902" title="de3fd902">_</a> UNIX コマンド  </h3>
+<h3 id="content_1_5"><a id="de3fd902" href="http://MotDB.DBCLS.jp/?AJACS32%2Fbono#de3fd902" title="de3fd902">_</a> UNIX コマンド  </h3>
 <p><a href="http://lifesciencedb.jp/image/small_video_icon.png" rel="nofollow"><img src="http://lifesciencedb.jp/image/small_video_icon.png" alt="http://lifesciencedb.jp/image/small_video_icon.png" /></a>
 <a href="http://togotv.dbcls.jp/20110929.html" rel="nofollow">WindowsでUNIX! 2. ファイル操作編</a></p>
 <ul class="list1" style="padding-left:16px;margin-left:16px"><li>cd</li>
@@ -117,7 +117,7 @@
 <blockquote><p class="quotation">% man head</p></blockquote>
 <p>などすることでマニュアルが参照できます。</p>
 
-<div class="jumpmenu"><a href="#navigator">&uarr;</a></div><h3 id="content_1_6"><a id="e17b6eed" href="http://MotDB.DBCLS.jp/?AJACS32%2Fbono#e17b6eed" title="e17b6eed"><span class="sanchor">_</span></a> Local BLAST  </h3>
+<h3 id="content_1_6"><a id="e17b6eed" href="http://MotDB.DBCLS.jp/?AJACS32%2Fbono#e17b6eed" title="e17b6eed"><span class="sanchor">_</span></a> Local BLAST  </h3>
 <p>できる人は統合TVみてどんどん進めてってください。</p>
 <p>ひょっとすると今使っているLANの制限で、以下動画の中で指示のあるFTPサイトにアクセス出来ないかもしれません。
 BLASTのダウンロードサイト（臨時）として</p>
@@ -134,7 +134,7 @@ BLASTのダウンロードサイト（臨時）として</p>
 <blockquote><p class="quotation">cp ~/ncbi-blast-2.2.26+/bin/* /usr/local/bin</p></blockquote>
 <p>などとしてコマンドサーチパスが通ったところにコピーしておいて下さい。</p>
 
-<div class="jumpmenu"><a href="#navigator">&uarr;</a></div><h3 id="content_1_7"><a id="n783a910" href="http://MotDB.DBCLS.jp/?AJACS32%2Fbono#n783a910" title="n783a910">_</a> Windows  </h3>
+<h3 id="content_1_7"><a id="n783a910" href="http://MotDB.DBCLS.jp/?AJACS32%2Fbono#n783a910" title="n783a910">_</a> Windows  </h3>
 <p><a href="http://lifesciencedb.jp/image/small_video_icon.png" rel="nofollow"><img src="http://lifesciencedb.jp/image/small_video_icon.png" alt="http://lifesciencedb.jp/image/small_video_icon.png" /></a>
 <a href="http://togotv.dbcls.jp/20110119.html" rel="nofollow">Local BLAST の使い方～導入・準備編～ 2011</a></p>
 <p><a href="http://lifesciencedb.jp/image/small_video_icon.png" rel="nofollow"><img src="http://lifesciencedb.jp/image/small_video_icon.png" alt="http://lifesciencedb.jp/image/small_video_icon.png" /></a>
@@ -149,7 +149,7 @@ BLASTのダウンロードサイト（臨時）として</p>
 <div class="img_margin" style="text-align:left"><a href="http://MotDB.DBCLS.jp/?plugin=attach&amp;refer=AJACS32%2Fbono&amp;openfile=testdouble.txt" title="2012/07/26 11:25:03 1.4KB"><img src="image/file.png" width="20" height="20" alt="file" style="border-width:0px" />testdouble.txt</a></div>
 
 
-<div class="jumpmenu"><a href="#navigator">&uarr;</a></div><h3 id="content_1_8"><a id="o5cee03c" href="http://MotDB.DBCLS.jp/?AJACS32%2Fbono#o5cee03c" title="o5cee03c">_</a> MacOSX  </h3>
+<h3 id="content_1_8"><a id="o5cee03c" href="http://MotDB.DBCLS.jp/?AJACS32%2Fbono#o5cee03c" title="o5cee03c">_</a> MacOSX  </h3>
 <p><a href="http://lifesciencedb.jp/image/small_video_icon.png" rel="nofollow"><img src="http://lifesciencedb.jp/image/small_video_icon.png" alt="http://lifesciencedb.jp/image/small_video_icon.png" /></a>
 <a href="http://togotv.dbcls.jp/20110420.html" rel="nofollow">Local BLAST の使い方～導入・準備編(MacOSX版)～ 2011</a></p>
 <p><a href="http://lifesciencedb.jp/image/small_video_icon.png" rel="nofollow"><img src="http://lifesciencedb.jp/image/small_video_icon.png" alt="http://lifesciencedb.jp/image/small_video_icon.png" /></a>
@@ -164,9 +164,9 @@ BLASTのダウンロードサイト（臨時）として</p>
 <div class="img_margin" style="text-align:left"><a href="http://MotDB.DBCLS.jp/?plugin=attach&amp;refer=AJACS32%2Fbono&amp;openfile=testdouble.txt" title="2012/07/26 11:25:03 1.4KB"><img src="image/file.png" width="20" height="20" alt="file" style="border-width:0px" />testdouble.txt</a></div>
 
 
-<div class="jumpmenu"><a href="#navigator">&uarr;</a></div><h3 id="content_1_9"><a id="z7c0084b" href="http://MotDB.DBCLS.jp/?AJACS32%2Fbono#z7c0084b" title="z7c0084b"><span class="sanchor">_</span></a> データ後処理  </h3>
+<h3 id="content_1_9"><a id="z7c0084b" href="http://MotDB.DBCLS.jp/?AJACS32%2Fbono#z7c0084b" title="z7c0084b"><span class="sanchor">_</span></a> データ後処理  </h3>
 
-<div class="jumpmenu"><a href="#navigator">&uarr;</a></div><h3 id="content_1_10"><a id="y173062b" href="http://MotDB.DBCLS.jp/?AJACS32%2Fbono#y173062b" title="y173062b">_</a> 数える  </h3>
+<h3 id="content_1_10"><a id="y173062b" href="http://MotDB.DBCLS.jp/?AJACS32%2Fbono#y173062b" title="y173062b">_</a> 数える  </h3>
 <p>大規模にBLASTを計算するといくつヒットがあったかなどが一目ではわからなくなってきます。そういった「数える」必要があるときにコマンドラインでの処理が役に立ちます。</p>
 <ul class="list1" style="padding-left:16px;margin-left:16px"><li>FASTAファイルの配列のエントリ数を。例えば、上で用いたyeastのアミノ酸配列のDB(FASTA形式)の配列エントリ数を数える場合。
 <blockquote><p class="quotation">grep -c ^\&gt; yeast.aa</p></blockquote></li></ul>
@@ -205,15 +205,15 @@ BLASTのダウンロードサイト（臨時）として</p>
 <p class="quotation">}</p></blockquote>
 <blockquote><p class="quotation">cut -f2 testfmt6.out | sort | perl count.prl | less</p></blockquote>
 
-<div class="jumpmenu"><a href="#navigator">&uarr;</a></div><h3 id="content_1_11"><a id="dcf9cf96" href="http://MotDB.DBCLS.jp/?AJACS32%2Fbono#dcf9cf96" title="dcf9cf96">_</a> ベストヒットだけを抽出  </h3>
+<h3 id="content_1_11"><a id="dcf9cf96" href="http://MotDB.DBCLS.jp/?AJACS32%2Fbono#dcf9cf96" title="dcf9cf96">_</a> ベストヒットだけを抽出  </h3>
 <p>BLASTの出力ファイル（-outfmt 6オプションでタブ区切り出力したもの）をテキスト処理するやり方もありますが、Local BLASTが実行可能となった今、普通にBLASTのオプションで -max_target_seqs 1 を指定するほうが早いです。例えば、</p>
 <blockquote><p class="quotation">blastp -db yeast.aa -query mito.aa -out mito_vs_yeast.out -outfmt 6 -max_target_seqs 1</p></blockquote>
 <p>これでquery: mito.aa db: yeast.aaのベストヒットが抽出できます。</p>
 
-<div class="jumpmenu"><a href="#navigator">&uarr;</a></div><h3 id="content_1_12"><a id="y8b3afb0" href="http://MotDB.DBCLS.jp/?AJACS32%2Fbono#y8b3afb0" title="y8b3afb0">_</a> おまけ：改行コード問題  </h3>
+<h3 id="content_1_12"><a id="y8b3afb0" href="http://MotDB.DBCLS.jp/?AJACS32%2Fbono#y8b3afb0" title="y8b3afb0">_</a> おまけ：改行コード問題  </h3>
 <p>出てきたBLASTの結果。テキストファイルなのにある種のソフトウェアではうまく認識されないことがあります。その場合、この問題を疑ってください。</p>
 
-<div class="jumpmenu"><a href="#navigator">&uarr;</a></div><h4 id="content_1_13"><a id="yf6119ab" href="http://MotDB.DBCLS.jp/?AJACS32%2Fbono#yf6119ab" title="yf6119ab">_</a> 改行コード問題とは？  </h4>
+<h4 id="content_1_13"><a id="yf6119ab" href="http://MotDB.DBCLS.jp/?AJACS32%2Fbono#yf6119ab" title="yf6119ab">_</a> 改行コード問題とは？  </h4>
 <p>使用プラットフォーム(OS)によって改行コードが異なるため、、</p>
 <ul class="list1" style="padding-left:16px;margin-left:16px"><li>Macのテキストファイル
 <div class="img_margin" style="text-align:left"><a href="http://MotDB.DBCLS.jp/?plugin=attach&amp;refer=AJACS32%2Fbono&amp;openfile=mac.txt" title="2012/07/24 17:04:45 0.0KB"><img src="image/file.png" width="20" height="20" alt="file" style="border-width:0px" />mac.txt</a></div>
@@ -234,7 +234,7 @@ BLASTのダウンロードサイト（臨時）として</p>
 <p class="quotation">0000000   C   R       a   n   d       L   F  \r  \n   w   i   n</p>
 <p class="quotation">0000016</p></blockquote></li></ul>
 
-<div class="jumpmenu"><a href="#navigator">&uarr;</a></div><h4 id="content_1_14"><a id="q75d09de" href="http://MotDB.DBCLS.jp/?AJACS32%2Fbono#q75d09de" title="q75d09de">_</a> その対処法  </h4>
+<h4 id="content_1_14"><a id="q75d09de" href="http://MotDB.DBCLS.jp/?AJACS32%2Fbono#q75d09de" title="q75d09de">_</a> その対処法  </h4>
 <p>いくつかやり方がありますが、一番汎用性の高いものを紹介します。</p>
 <p>以下のperlワンライナーでmac改行形式のファイル(mac.txt)がUNIX改行形式のファイル(mac_conv_unix.txt)に変換されます。</p>
 <blockquote><p class="quotation">perl  -pe 's/\r/\n/g' mac.txt &gt; mac_conv_unix.txt</p></blockquote>
