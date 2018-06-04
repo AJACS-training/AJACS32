@@ -30,7 +30,7 @@
 <li>マウスのエキソンアレイのデータから遺伝子のスプライシングバリアント(Splicing variant)の発現状況も調べることが可能。最近ではCircadian関係のデータも。</li>
 <li>さらに最近のアップデートで、NCBI Gene Expression Omnibus (GEO)中から選抜されたデータセットに切り替えて発現状況を調べることが可能に。</li></ul>
 
-<div class="jumpmenu"><a href="#navigator">&uarr;</a></div><h3 id="content_1_2"><a id="k6b911bc" href="http://MotDB.DBCLS.jp/?AJACS32%2Fhono#k6b911bc" title="k6b911bc">_</a> 【実習1】BioGPSを使ってある遺伝子の発現プロファイルを調べる  </h3>
+<h3 id="content_1_2"><a id="k6b911bc" href="http://MotDB.DBCLS.jp/?AJACS32%2Fhono#k6b911bc" title="k6b911bc">_</a> 【実習1】BioGPSを使ってある遺伝子の発現プロファイルを調べる  </h3>
 <ul class="list1" style="padding-left:16px;margin-left:16px"><li><a href="http://togotv.dbcls.jp/20110120.html#p01" rel="nofollow">【復習用】遺伝子発現プロファイルデータベースBioGPSを使い倒す2011(※内容が少し古いです。近日中に番組アップデート予定)</a> <a href="http://lifesciencedb.jp/image/small_video_icon.png" rel="nofollow"><img src="http://lifesciencedb.jp/image/small_video_icon.png" alt="http://lifesciencedb.jp/image/small_video_icon.png" /></a></li>
 <li><a href="http://togotv.dbcls.jp/20100829.html#p01" rel="nofollow">【以前の講習会動画】遺伝子発現データベースの活用法</a> <a href="http://lifesciencedb.jp/image/small_video_icon.png" rel="nofollow"><img src="http://lifesciencedb.jp/image/small_video_icon.png" alt="http://lifesciencedb.jp/image/small_video_icon.png" /></a></li>
 <li>1. <a href="http://biogps.org/" rel="nofollow">http://biogps.org/</a>を開きます。</li>
@@ -83,15 +83,18 @@ BioGPSのiPhoneアプリが無料で公開されていますので、「あの�
 <li>7. 「Gene Ontology」をクリックすると、Gene Ontologyを用いた解析の細かいメニューが表示されます。</li>
 <li>8. 今回は、GOTERM_BP_FAT (BP=Biological Process)に注目します。その右の「Chart」をクリックすると結果がポップアップされます。</li>
 <li>9. P-value を2回クリックしてp-valueが小さい（統計的に有意である）順にしてみましょう … p-value小さい順は、一度やればしばらく覚えているので、次からはしばらくは必要ないです
-<p>結果</p>
+
+#### 結果
 
 <div class="plugin_fold_body"><div class="img_margin" style="text-align:left"><a href="http://MotDB.DBCLS.jp/?plugin=attach&amp;refer=AJACS24%2Fhono&amp;openfile=david_go_bp.png" title="david_go_bp.png"><img src="http://MotDB.DBCLS.jp/?plugin=ref&amp;page=AJACS24%2Fhono&amp;src=david_go_bp.png" alt="david_go_bp.png" title="david_go_bp.png" width="989" height="833" /></a></div>
 
 </div></li>
 <li>[応用編] Pathways &gt; KEGG_PATHWAY や Tissue Expression &gt; UP_TISSUE なども見てみましょう。生物学的にどういうことが言えるでしょうか。
 <a name="plugin_fold_anchor2"></a>
-<div class="plugin_fold_title_plus" onclick="return plugin_fold_onclick(this,event,'plugin_fold_anchor2')"><p>サンプルデータの答え</p>
-</div>
+
+#### サンプルデータの答え
+
+
 <div class="plugin_fold_body"><p>Arabidopsis thaliana (シロイヌナズナ)の植物細胞と細胞壁分解酵素を用いて取り除いた植物細胞（<a href="http://ja.wikipedia.org/wiki/%E3%83%97%E3%83%AD%E3%83%88%E3%83%97%E3%83%A9%E3%82%B9%E3%83%88" rel="nofollow">プロトプラスト</a>）との比較（植物細胞の<a href="http://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%AB%E3%82%B9_%28%E6%A4%8D%E7%89%A9%29" rel="nofollow">脱分化</a>前・後）</p>
 </div></li></ul>
 <hr class="full_hr" />
