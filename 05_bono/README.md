@@ -175,7 +175,8 @@ BLASTのダウンロードサイト（臨時）として</p>
 <blockquote><p class="quotation">grep -c ^\&gt; yeast.aa</p></blockquote></li></ul>
 <p>6298と出れば正解です。これが（データベース中の）yeastのアミノ酸配列数です。</p>
 <ul class="list1" style="padding-left:16px;margin-left:16px"><li>BLASTの結果ファイル（-outfmt 6オプションでタブ区切り出力したもの）で、ヒットのあったエントリ数を。自分で結果ファイルを用意しても構いませんが、ここでは以下の結果ファイルのサンプル（ファイル名：testfmt6.out）で説明します。</li></ul>
-<div class="img_margin" style="text-align:left"><a href="http://MotDB.DBCLS.jp/?plugin=attach&amp;refer=AJACS32%2Fbono&amp;openfile=testfmt6.out" title="2012/07/26 11:51:26 303.6KB"><img src="image/file.png" width="20" height="20" alt="file" style="border-width:0px" />testfmt6.out</a></div>
+
+[testfmt6.out](testfmt6.out)
 
 <p>処理する前にこれがどんなファイルか見ましょう。</p>
 <blockquote><p class="quotation">less testfmt6.out</p></blockquote>
