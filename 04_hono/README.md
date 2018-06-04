@@ -24,7 +24,7 @@
 
 <h3 id="content_1_1"><a id="t5ad14b0" href="http://MotDB.DBCLS.jp/?AJACS32%2Fhono#t5ad14b0" title="t5ad14b0"><span class="sanchor">_</span></a> <a href="http://biogps.org/" rel="nofollow"><span style="font-size:20px;display:inline-block;line-height:130%;text-indent:0px">BioGPS</span></a>  </h3>
 <p><span style="color:green">ヒト、マウス、ラットのさまざまな組織や細胞(株)における遺伝子発現プロファイルのデータベース</span></p>
-<ul class="list1" style="padding-left:16px;margin-left:16px"><li><a href="http://biogps.org/" rel="nofollow">BioGPS</a>はAffymetrix社製のマイクロアレイである<span class="noexists">GeneChip<a href="http://MotDB.DBCLS.jp/?cmd=edit&amp;page=GeneChip&amp;refer=AJACS32%2Fhono">?</a></span>を用いたさまざまな組織や細胞(株)遺伝子発現プロファイルのデータベース。</li>
+<ul class="list1" style="padding-left:16px;margin-left:16px"><li><a href="http://biogps.org/" rel="nofollow">BioGPS</a>はAffymetrix社製のマイクロアレイであるGeneChipを用いたさまざまな組織や細胞(株)遺伝子発現プロファイルのデータベース。</li>
 <li>検索した遺伝子に対して、種々の外部データベースを横断検索することができるだけでなく、それらの設定を保存したり、表示方法を自由にカスタマイズすることができる「Gene annotation portal」。</li>
 <li>外部データベースには、Wikipedia(Gene Wiki)、著名な試薬会社の検索窓へのリンク集、pathway、Nature系DB、モデル生物DB、文献DBなど多種多様</li>
 <li>マウスのエキソンアレイのデータから遺伝子のスプライシングバリアント(Splicing variant)の発現状況も調べることが可能。最近ではCircadian関係のデータも。</li>
@@ -177,7 +177,7 @@ BioGPSのiPhoneアプリが無料で公開されていますので、「あの�
 <li>2. 画面中央の「Platforms」をクリックします。</li>
 <li>3. <a href="http://www.informatics.jax.org/javawi2/servlet/WIFetch?page=imageSummaryByMrk&amp;key=25000&amp;imageType=8" rel="nofollow">Platform(マイクロアレイの種類)の一覧画面が現れる</a>ので、上部の「FIND PLATFORM」をクリックします。</li>
 <li>4. <a href="http://www.ncbi.nlm.nih.gov/geo/query/browse.cgi?mode=findplatform" rel="nofollow">platformの検索画面</a>が現れるので、「Company name」に「Affymetrix」、「organism」に「Homo sapiens」を選択し、「FIND PLATFORM」をクリックします。</li>
-<li>5. <a href="http://www.ncbi.nlm.nih.gov/geo/query/browse.cgi?mode=foundplatform" rel="nofollow">Affymetrixのヒトのマイクロアレイの検索結果</a>が表示されるので、中程にある「Affymetrix <span class="noexists">GeneChip<a href="http://MotDB.DBCLS.jp/?cmd=edit&amp;page=GeneChip&amp;refer=AJACS32%2Fhono">?</a></span> Human Genome U133 Plus 2.0 Array」の左端にある<a href="http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GPL570" rel="nofollow">「GPL570」というID</a>をクリックします。</li>
+<li>5. <a href="http://www.ncbi.nlm.nih.gov/geo/query/browse.cgi?mode=foundplatform" rel="nofollow">Affymetrixのヒトのマイクロアレイの検索結果</a>が表示されるので、中程にある「Affymetrix GeneChip Human Genome U133 Plus 2.0 Array」の左端にある<a href="http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GPL570" rel="nofollow">「GPL570」というID</a>をクリックします。</li>
 <li>6. <a href="http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GPL570" rel="nofollow">表示された画面</a>の真ん中あたりにある「series」下の「More...」をクリックすると、登録されているデータセットを閲覧できます。</li>
 <li>7. ブラウザの検索ボタンなどを使って「reprogramming」という単語を検索するとどういうデータがヒットするでしょうか？</li>
 <li>8. ヒットしたデータの左端にあるIDをクリックすると、<a href="http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE9832" rel="nofollow">そのデータセットの詳細情報</a>が閲覧できます</li>
@@ -192,5 +192,5 @@ BioGPSのiPhoneアプリが無料で公開されていますので、「あの�
 
 <h3 id="content_1_12"><a id="e22736da" href="http://MotDB.DBCLS.jp/?AJACS32%2Fhono#e22736da" title="e22736da"><span class="sanchor">_</span></a> 【参考2】<a href="http://refex.dbcls.jp/" rel="nofollow">RefEx</a>  </h3>
 <ul class="list1" style="padding-left:16px;margin-left:16px"><li><a href="http://togotv.dbcls.jp/20100618.html#p01" rel="nofollow">使い方参考動画 はじめてのRefEx(Reference Expression dataset)</a><a href="http://lifesciencedb.jp/image/small_video_icon.png" rel="nofollow"><img src="http://lifesciencedb.jp/image/small_video_icon.png" alt="http://lifesciencedb.jp/image/small_video_icon.png" /></a></li>
-<li><span class="noexists">RefEx<a href="http://MotDB.DBCLS.jp/?cmd=edit&amp;page=RefEx&amp;refer=AJACS32%2Fhono">?</a></span> （Reference Expression dataset）は、ライフサイエンス統合データベースセンター（DBCLS）が提供する、4つの異なる実験手法（EST、<span class="noexists">GeneChip<a href="http://MotDB.DBCLS.jp/?cmd=edit&amp;page=GeneChip&amp;refer=AJACS32%2Fhono">?</a></span>、CAGE、RNA-seq）によって得られた40種類の正常組織における遺伝子発現量を並列に表現することで、手法間の比較とともに各遺伝子の発現量を直感的に比較することが可能な、リファレンス(参照)データセットである。</li>
-<li>The NEW <span class="noexists">RefEx<a href="http://MotDB.DBCLS.jp/?cmd=edit&amp;page=RefEx&amp;refer=AJACS32%2Fhono">?</a></span> is coming August 2012!!</li></ul>
+<li>RefEx （Reference Expression dataset）は、ライフサイエンス統合データベースセンター（DBCLS）が提供する、4つの異なる実験手法（EST、GeneChip、CAGE、RNA-seq）によって得られた40種類の正常組織における遺伝子発現量を並列に表現することで、AC手法間の比較とともに各遺伝子の発現量を直感的に比較することが可能な、リファレンス(参照)データセットである。</li>
+<li>The NEW RefEx is coming August 2012!!</li></ul>
