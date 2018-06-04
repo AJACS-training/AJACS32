@@ -192,5 +192,5 @@ BioGPSのiPhoneアプリが無料で公開されていますので、「あの�
 
 <h3 id="content_1_12"><a id="e22736da" href="http://MotDB.DBCLS.jp/?AJACS32%2Fhono#e22736da" title="e22736da"><span class="sanchor">_</span></a> 【参考2】<a href="http://refex.dbcls.jp/" rel="nofollow">RefEx</a>  </h3>
 <ul class="list1" style="padding-left:16px;margin-left:16px"><li><a href="http://togotv.dbcls.jp/20100618.html#p01" rel="nofollow">使い方参考動画 はじめてのRefEx(Reference Expression dataset)</a><a href="http://lifesciencedb.jp/image/small_video_icon.png" rel="nofollow"><img src="http://lifesciencedb.jp/image/small_video_icon.png" alt="http://lifesciencedb.jp/image/small_video_icon.png" /></a></li>
-<li>RefEx （Reference Expression dataset）は、ライフサイエンス統合データベースセンター（DBCLS）が提供する、4つの異なる実験手法（EST、GeneChip、CAGE、RNA-seq）によって得られた40種類の正常組織における遺伝子発現量を並列に表現することで、AC手法間の比較とともに各遺伝子の発現量を直感的に比較することが可能な、リファレンス(参照)データセットである。</li>
+<li>RefEx （Reference Expression dataset）は、ライフサイエンス統合データベースセンター（DBCLS）が提供する、4つの異なる実験手法（EST、GeneChip、CAGE、RNA-seq）によって得られた40種類の正常組織における遺伝子発現量を並列に表現することで、手法間の比較とともに各遺伝子の発現量を直感的に比較することが可能な、リファレンス(参照)データセットである。</li>
 <li>The NEW RefEx is coming August 2012!!</li></ul>
