@@ -1,4 +1,4 @@
-## 遺伝子発現DB・解析ツールの紹介</span>　　　　担当： <a href="http://dbcls.rois.ac.jp/~hono/dokuwiki/doku.php" rel="nofollow">小野 浩雅</a>
+## 遺伝子発現DB・解析ツールの紹介</span>　　　担当：小野 浩雅
 
 <p>目次</p>
 <div class="contents">
