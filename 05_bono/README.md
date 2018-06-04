@@ -102,7 +102,8 @@
 <li>rm</li></ul>
 <p><a href="http://lifesciencedb.jp/image/small_video_icon.png" rel="nofollow"><img src="http://lifesciencedb.jp/image/small_video_icon.png" alt="http://lifesciencedb.jp/image/small_video_icon.png" /></a>
 <a href="http://togotv.dbcls.jp/20120710.html" rel="nofollow">WindowsでUNIX! 3. ファイル操作応用編</a></p>
-<div class="img_margin" style="text-align:left"><a href="http://MotDB.DBCLS.jp/?plugin=attach&amp;refer=AJACS32%2Fbono&amp;openfile=sample.zip" title="2012/07/24 18:31:57 1044.8KB"><img src="image/file.png" width="20" height="20" alt="file" style="border-width:0px" />sample.zip</a></div>
+
+[sample.zip](sample.zip)
 
 <ul class="list1" style="padding-left:16px;margin-left:16px"><li>wc</li>
 <li>less</li>
@@ -140,13 +141,14 @@ BLASTのダウンロードサイト（臨時）として</p>
 <p><a href="http://lifesciencedb.jp/image/small_video_icon.png" rel="nofollow"><img src="http://lifesciencedb.jp/image/small_video_icon.png" alt="http://lifesciencedb.jp/image/small_video_icon.png" /></a>
 <a href="http://togotv.dbcls.jp/20110225.html" rel="nofollow">Local BLAST の使い方～検索実行・オプション編～ 2011</a></p>
 <p>使用するテスト配列のファイルはこちらです。</p>
-<div class="img_margin" style="text-align:left"><a href="http://MotDB.DBCLS.jp/?plugin=attach&amp;refer=AJACS32%2Fbono&amp;openfile=test.txt" title="2012/07/25 12:25:54 0.6KB"><img src="image/file.png" width="20" height="20" alt="file" style="border-width:0px" />test.txt</a></div>
 
-<div class="img_margin" style="text-align:left"><a href="http://MotDB.DBCLS.jp/?plugin=attach&amp;refer=AJACS32%2Fbono&amp;openfile=test1.txt" title="2012/07/25 12:31:07 0.7KB"><img src="image/file.png" width="20" height="20" alt="file" style="border-width:0px" />test1.txt</a></div>
+[test.txt](test.txt)
 
-<div class="img_margin" style="text-align:left"><a href="http://MotDB.DBCLS.jp/?plugin=attach&amp;refer=AJACS32%2Fbono&amp;openfile=testnt.txt" title="2012/07/25 14:13:51 0.8KB"><img src="image/file.png" width="20" height="20" alt="file" style="border-width:0px" />testnt.txt</a></div>
+[test1.txt](test1.txt)
 
-<div class="img_margin" style="text-align:left"><a href="http://MotDB.DBCLS.jp/?plugin=attach&amp;refer=AJACS32%2Fbono&amp;openfile=testdouble.txt" title="2012/07/26 11:25:03 1.4KB"><img src="image/file.png" width="20" height="20" alt="file" style="border-width:0px" />testdouble.txt</a></div>
+[testnt.txt](testnt.txt)
+
+[testdouble.txt](testdouble.txt)
 
 
 <h3 id="content_1_8"><a id="o5cee03c" href="http://MotDB.DBCLS.jp/?AJACS32%2Fbono#o5cee03c" title="o5cee03c">_</a> MacOSX  </h3>
@@ -155,13 +157,14 @@ BLASTのダウンロードサイト（臨時）として</p>
 <p><a href="http://lifesciencedb.jp/image/small_video_icon.png" rel="nofollow"><img src="http://lifesciencedb.jp/image/small_video_icon.png" alt="http://lifesciencedb.jp/image/small_video_icon.png" /></a>
 <a href="http://togotv.dbcls.jp/20110608.html" rel="nofollow">Local BLAST の使い方～検索実行・オプション編(MacOSX版)～ 2011</a></p>
 <p>使用するテスト配列のファイルはこちらです。</p>
-<div class="img_margin" style="text-align:left"><a href="http://MotDB.DBCLS.jp/?plugin=attach&amp;refer=AJACS32%2Fbono&amp;openfile=test.txt" title="2012/07/25 12:25:54 0.6KB"><img src="image/file.png" width="20" height="20" alt="file" style="border-width:0px" />test.txt</a></div>
 
-<div class="img_margin" style="text-align:left"><a href="http://MotDB.DBCLS.jp/?plugin=attach&amp;refer=AJACS32%2Fbono&amp;openfile=test1.txt" title="2012/07/25 12:31:07 0.7KB"><img src="image/file.png" width="20" height="20" alt="file" style="border-width:0px" />test1.txt</a></div>
+[test.txt](test.txt)
 
-<div class="img_margin" style="text-align:left"><a href="http://MotDB.DBCLS.jp/?plugin=attach&amp;refer=AJACS32%2Fbono&amp;openfile=testnt.txt" title="2012/07/25 14:13:51 0.8KB"><img src="image/file.png" width="20" height="20" alt="file" style="border-width:0px" />testnt.txt</a></div>
+[test1.txt](test1.txt)
 
-<div class="img_margin" style="text-align:left"><a href="http://MotDB.DBCLS.jp/?plugin=attach&amp;refer=AJACS32%2Fbono&amp;openfile=testdouble.txt" title="2012/07/26 11:25:03 1.4KB"><img src="image/file.png" width="20" height="20" alt="file" style="border-width:0px" />testdouble.txt</a></div>
+[testnt.txt](testnt.txt)
+
+[testdouble.txt](testdouble.txt)
 
 
 <h3 id="content_1_9"><a id="z7c0084b" href="http://MotDB.DBCLS.jp/?AJACS32%2Fbono#z7c0084b" title="z7c0084b"><span class="sanchor">_</span></a> データ後処理  </h3>
@@ -216,19 +219,22 @@ BLASTのダウンロードサイト（臨時）として</p>
 <h4 id="content_1_13"><a id="yf6119ab" href="http://MotDB.DBCLS.jp/?AJACS32%2Fbono#yf6119ab" title="yf6119ab">_</a> 改行コード問題とは？  </h4>
 <p>使用プラットフォーム(OS)によって改行コードが異なるため、、</p>
 <ul class="list1" style="padding-left:16px;margin-left:16px"><li>Macのテキストファイル
-<div class="img_margin" style="text-align:left"><a href="http://MotDB.DBCLS.jp/?plugin=attach&amp;refer=AJACS32%2Fbono&amp;openfile=mac.txt" title="2012/07/24 17:04:45 0.0KB"><img src="image/file.png" width="20" height="20" alt="file" style="border-width:0px" />mac.txt</a></div>
+
+[mac.txt](mac.txt)
 
 <blockquote><p class="quotation">% od -c mac.txt</p>
 <p class="quotation">0000000   c   a   r   r   i   a   g   e       r   e   t   u   r   n  \r</p>
 <p class="quotation">0000020   m   a   c</p></blockquote></li></ul>
 <ul class="list1" style="padding-left:16px;margin-left:16px"><li>Unixのテキストファイル
-<div class="img_margin" style="text-align:left"><a href="http://MotDB.DBCLS.jp/?plugin=attach&amp;refer=AJACS32%2Fbono&amp;openfile=unix.txt" title="2012/07/24 17:05:31 0.0KB"><img src="image/file.png" width="20" height="20" alt="file" style="border-width:0px" />unix.txt</a></div>
+
+[unix.txt](unix.txt)
 
 <blockquote><p class="quotation">% od -c unix.txt</p>
 <p class="quotation">0000000   l   i   n   e       f   e   e   d  \n   u   n   i   x</p>
 <p class="quotation">0000016</p></blockquote></li></ul>
 <ul class="list1" style="padding-left:16px;margin-left:16px"><li>Windowsのテキストファイル
-<div class="img_margin" style="text-align:left"><a href="http://MotDB.DBCLS.jp/?plugin=attach&amp;refer=AJACS32%2Fbono&amp;openfile=win.txt" title="2012/07/24 17:06:00 0.0KB"><img src="image/file.png" width="20" height="20" alt="file" style="border-width:0px" />win.txt</a></div>
+
+[win.txt](win.txt)
 
 <blockquote><p class="quotation">% od -c win.txt</p>
 <p class="quotation">0000000   C   R       a   n   d       L   F  \r  \n   w   i   n</p>
